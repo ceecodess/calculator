@@ -1,13 +1,13 @@
 # This is a simple student calculator
 # to simply get total and average score.
 
-# student_name=input("what is your name? ")
-# scoreinmaths=input("score in maths? ")
-# scoreinenglish=input("score in english? ")
-# total=int(scoreinmaths) + int(scoreinenglish)
-# average=total/2
-# print(f' hello {student_name} your total score is {total}')
-# print(f' your total average is {average}')
+student_name=input("what is your name? ")
+scoreinmaths=input("score in maths? ")
+scoreinenglish=input("score in english? ")
+total=int(scoreinmaths) + int(scoreinenglish)
+average=total/2
+print(f' hello {student_name} your total score is {total}')
+print(f' your total average is {average}')
 
 
 # retry of building cal
